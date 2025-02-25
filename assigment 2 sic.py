@@ -8,8 +8,8 @@ import urequests as requests
 
 
 DEVICE_ID = "esp-32"
-WIFI_SSID = "Galaxy A35 5G"
-WIFI_PASSWORD = "20202020"
+WIFI_SSID = "" #nama wifi sendiri
+WIFI_PASSWORD = "" #password juga
 TOKEN = "BBUS-GkUQCVA0n5dqBSfeLaukJ5maWH1yLM"
 DHT_PIN = Pin(15)
 
